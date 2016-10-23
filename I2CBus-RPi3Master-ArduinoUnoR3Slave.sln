@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sogeti.IoT.I2CBus", "Sogeti.IoT.I2CBus\Sogeti.IoT.I2CBus.csproj", "{94A43350-179E-47DE-840E-36A8DF27A4D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sogeti-IoT-I2CBus-LED", "Sogeti-IoT-I2CBus-LED", "{439E2D12-B59E-4FE7-9A65-A0C362250074}"
+	ProjectSection(SolutionItems) = preProject
+		Sogeti-IoT-I2CBus-LED\Sogeti-IoT-I2CBus-LED.ino = Sogeti-IoT-I2CBus-LED\Sogeti-IoT-I2CBus-LED.ino
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sogeti-IoT-I2CBus-TemperatureSensor", "Sogeti-IoT-I2CBus-TemperatureSensor", "{039E3ED4-6909-40D5-A7F1-917237FD55F1}"
+	ProjectSection(SolutionItems) = preProject
+		Sogeti-IoT-I2CBus-TemperatureSensor\Sogeti-IoT-I2CBus-TemperatureSensor.ino = Sogeti-IoT-I2CBus-TemperatureSensor\Sogeti-IoT-I2CBus-TemperatureSensor.ino
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|ARM.ActiveCfg = Debug|ARM
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|ARM.Build.0 = Debug|ARM
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|ARM.Deploy.0 = Debug|ARM
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|x64.ActiveCfg = Debug|x64
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|x64.Build.0 = Debug|x64
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|x64.Deploy.0 = Debug|x64
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|x86.ActiveCfg = Debug|x86
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|x86.Build.0 = Debug|x86
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Debug|x86.Deploy.0 = Debug|x86
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|ARM.ActiveCfg = Release|ARM
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|ARM.Build.0 = Release|ARM
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|ARM.Deploy.0 = Release|ARM
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|x64.ActiveCfg = Release|x64
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|x64.Build.0 = Release|x64
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|x64.Deploy.0 = Release|x64
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|x86.ActiveCfg = Release|x86
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|x86.Build.0 = Release|x86
+		{94A43350-179E-47DE-840E-36A8DF27A4D0}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
