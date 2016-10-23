@@ -15,6 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sogeti-IoT-I2CBus-Temperatu
 		Sogeti-IoT-I2CBus-TemperatureSensor\Sogeti-IoT-I2CBus-TemperatureSensor.ino = Sogeti-IoT-I2CBus-TemperatureSensor\Sogeti-IoT-I2CBus-TemperatureSensor.ino
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sogeti-IoT-I2CBus-Protoboard", "Sogeti-IoT-I2CBus-Protoboard", "{91693CB5-210F-4478-AA0D-59F2132E9673}"
+	ProjectSection(SolutionItems) = preProject
+		Sogeti-IoT-I2CBus-Protoboard\Sogeti-IoT-I2CBus-Protoboard.png = Sogeti-IoT-I2CBus-Protoboard\Sogeti-IoT-I2CBus-Protoboard.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
